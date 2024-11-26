@@ -1,0 +1,6 @@
+{
+    "require": {
+        "laravel/ui": "^4.5",
+        "livewire/livewire": "^3.5"
+    }
+}
